@@ -1,0 +1,201 @@
+{
+  "Stats": {
+    "leftShoulderFlexion": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "leftShoulderExtension": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "leftElbowFlexion_Extension": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "leftHipFlexion": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "leftHipExtension": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "leftKneeFlexion_Extension": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "leftAnkleDorsiflexion": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "leftAnklePlantarflexion": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "rightShoulderFlexion": {
+      "Min": 0.0,
+      "Max": 31.08828,
+      "RangeOfMotion": 31.08828
+    },
+    "rightShoulderExtension": {
+      "Min": 0.0,
+      "Max": 80.56274,
+      "RangeOfMotion": 80.56274
+    },
+    "rightElbowFlexion_Extension": {
+      "Min": 2.320435,
+      "Max": 146.3208,
+      "RangeOfMotion": 144.000366
+    },
+    "rightHipFlexion": {
+      "Min": 0.0,
+      "Max": 89.99445,
+      "RangeOfMotion": 89.99445
+    },
+    "rightHipExtension": {
+      "Min": 0.0,
+      "Max": 18.88399,
+      "RangeOfMotion": 18.88399
+    },
+    "rightKneeFlexion_Extension": {
+      "Min": 0.0,
+      "Max": 88.30347,
+      "RangeOfMotion": 88.30347
+    },
+    "rightAnkleDorsiflexion": {
+      "Min": 0.0,
+      "Max": 9.253677,
+      "RangeOfMotion": 9.253677
+    },
+    "rightAnklePlantarflexion": {
+      "Min": 0.0,
+      "Max": 39.9469,
+      "RangeOfMotion": 39.9469
+    },
+    "lefttrunkFlexion": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "lefttrunkExtension": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "righttrunkFlexion": {
+      "Min": 0.0,
+      "Max": 121.4926,
+      "RangeOfMotion": 121.4926
+    },
+    "righttrunkExtension": {
+      "Min": 0.0,
+      "Max": 18.88399,
+      "RangeOfMotion": 18.88399
+    },
+    "lefttrunkRotation": {
+      "Min": 0.0,
+      "Max": 16.88019,
+      "RangeOfMotion": 16.88019
+    },
+    "righttrunkRotation": {
+      "Min": 0.0,
+      "Max": 57.51878,
+      "RangeOfMotion": 57.51878
+    },
+    "lefttrunkLateralFlexion": {
+      "Min": 0.0,
+      "Max": 75.52869,
+      "RangeOfMotion": 75.52869
+    },
+    "righttrunkLateralFlexion": {
+      "Min": 0.0,
+      "Max": 9.556732,
+      "RangeOfMotion": 9.556732
+    },
+    "leftShoulderSideAbduction_Adduction": {
+      "Min": 0.0,
+      "Max": 19.12789,
+      "RangeOfMotion": 19.12789
+    },
+    "rightShoulderSideAbduction_Adduction": {
+      "Min": 0.0,
+      "Max": 60.84917,
+      "RangeOfMotion": 60.84917
+    },
+    "leftHipAbduction": {
+      "Min": 0.0,
+      "Max": 75.52869,
+      "RangeOfMotion": 75.52869
+    },
+    "leftHipAdduction": {
+      "Min": 0.0,
+      "Max": 0.0,
+      "RangeOfMotion": 0.0
+    },
+    "rightHipAbduction": {
+      "Min": 0.0,
+      "Max": 9.556732,
+      "RangeOfMotion": 9.556732
+    },
+    "rightHipAdduction": {
+      "Min": 0.0,
+      "Max": 51.3244,
+      "RangeOfMotion": 51.3244
+    }
+  },
+  "GaitMetrics": {
+    "LeftHipRangeOfMotion": 0.0,
+    "LeftHipMean": 0.0,
+    "LeftHipStdDev": 0.0,
+    "LeftKneeRangeOfMotion": 0.0,
+    "LeftKneeMean": 0.0,
+    "LeftKneeStdDev": 0.0,
+    "LeftAnkleRangeOfMotion": 0.0,
+    "LeftAnkleMean": 0.0,
+    "LeftAnkleStdDev": 0.0,
+    "RightHipRangeOfMotion": 89.99445,
+    "RightHipMean": -33.36372,
+    "RightHipStdDev": 32.85403,
+    "RightKneeRangeOfMotion": 88.30347,
+    "RightKneeMean": 43.07381,
+    "RightKneeStdDev": 30.39318,
+    "RightAnkleRangeOfMotion": 49.2005768,
+    "RightAnkleMean": 4.98718834,
+    "RightAnkleStdDev": 6.402396,
+    "LeftShoulderAbductionRangeOfMotion": 19.12789,
+    "LeftShoulderAbductionMean": 11.1011581,
+    "LeftShoulderAbductionStdDev": 7.315686,
+    "RightShoulderAbductionRangeOfMotion": 60.84917,
+    "RightShoulderAbductionMean": -32.54723,
+    "RightShoulderAbductionStdDev": 19.0849323
+  },
+  "PositionMetrics": null,
+  "FootMetrics": {
+    "LeftFrontAvg": 144.882187,
+    "LeftFrontStdDev": 179.398453,
+    "LeftMidAvg": 266.9861,
+    "LeftMidStdDev": 195.62059,
+    "LeftHeelAvg": 275.26825,
+    "LeftHeelStdDev": 258.3678,
+    "RightFrontAvg": 148.916077,
+    "RightFrontStdDev": 224.495316,
+    "RightMidAvg": 333.1571,
+    "RightMidStdDev": 229.374,
+    "RightHeelAvg": 24.4882526,
+    "RightHeelStdDev": 79.5019,
+    "LeftHeelToFrontCount": 2807,
+    "LeftFrontToHeelCount": 2807,
+    "RightHeelToFrontCount": 254,
+    "RightFrontToHeelCount": 254,
+    "LeftFootPlacementOrder": "Front-Mid-Heel",
+    "RightFootPlacementOrder": "Front-Mid"
+  }
+}
